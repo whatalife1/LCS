@@ -1,1 +1,53 @@
-test
+--- CTF Game Statistics for 2025-04-22 from LFSLazy.log.txt ---
+--- (Processed from extracted daily lines; usernames as they appear in log; encoding errors ignored) ---
+
+Total CTF games started today: 30
+Total times 'took the enemy Flag' today: 75
+Total times 'lost the enemy Flag' today: 24
+Total times 'brought the Flag' today: 30
+
+--- Top Users Who Took Enemy Flags --- (2025-04-22):
+  fake user            :    13
+  Pro                  :    13
+  [PR] Thamboo         :    12
+  [LCS-^J] B           :     8
+  [LCS-G] NotRoss      :     8
+  [LCS-^J]Girfen       :     7
+  LCS-G DickInSon      :     5
+  WildGamerz           :     3
+  [LCS-G]Girfen        :     2
+  ABBAI                :     2
+  aatamiaapo           :     2
+
+--- Top Users Who Lost Enemy Flags --- (2025-04-22):
+  fake user            :     8
+  [LCS-^J]Girfen       :     4
+  Pro                  :     3
+  WildGamerz           :     2
+  LCS-G DickInSon      :     2
+  [PR] Thamboo         :     2
+  ABBAI                :     1
+  [LCS-G]Girfen        :     1
+  [LCS-G] NotRoss      :     1
+
+--- Top Users Who Brought the Flag --- (2025-04-22):
+  [PR] Thamboo         :     9
+  [LCS-^J] B           :     5
+  [LCS-G] NotRoss      :     5
+  Pro                  :     4
+  [LCS-^J]Girfen       :     3
+  [LCS-G]Girfen        :     1
+  WildGamerz           :     1
+  fake user            :     1
+  aatamiaapo           :     1
+
+--- Actions Breakdown for 2025-04-22 ---
+
+  Took Flag: 75 times
+    Users: fake user (13), Pro (13), [PR] Thamboo (12), [LCS-^J] B (8), [LCS-G] NotRoss (8), [LCS-^J]Girfen (7), LCS-G DickInSon (5), WildGamerz (3), [LCS-G]Girfen (2), ABBAI (2), aatamiaapo (2)
+
+  Lost Flag: 24 times
+    Users: fake user (8), [LCS-^J]Girfen (4), Pro (3), WildGamerz (2), LCS-G DickInSon (2), [PR] Thamboo (2), ABBAI (1), [LCS-G]Girfen (1), [LCS-G] NotRoss (1)
+
+  Brought Flag: 30 times
+    Users: [PR] Thamboo (9), [LCS-^J] B (5), [LCS-G] NotRoss (5), Pro (4), [LCS-^J]Girfen (3), [LCS-G]Girfen (1), WildGamerz (1), fake user (1), aatamiaapo (1)
